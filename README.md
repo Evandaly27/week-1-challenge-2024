@@ -12,7 +12,7 @@ This makes it easier for a person to read through the HTML and understand the di
 
 ## Credits
 
-HTML Chearsheet 
+HTML Cheatsheet 
 
 W3 Schools
 
