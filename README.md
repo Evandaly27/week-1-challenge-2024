@@ -10,3 +10,10 @@ This makes it easier for a person to read through the HTML and understand the di
 
 ![Screenshot](assets/images/Week%201%20homework.png)
 
+## Credits
+
+HTML Chearsheet 
+
+W3 Schools
+
+MDN Docs
